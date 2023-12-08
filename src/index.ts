@@ -1,4 +1,4 @@
-import app from "./app.js"
+import app from "./app.js";
 import { connectToDatabase } from "./db/connection.js";
 
 //connections and listeners
