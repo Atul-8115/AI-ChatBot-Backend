@@ -1,0 +1,9 @@
+{
+    "project": "my-project",
+    "runtime": "node/16",
+    "integrations": {
+      "@vercel/import-map": {
+        "enabled": true
+      }
+    }
+  }
